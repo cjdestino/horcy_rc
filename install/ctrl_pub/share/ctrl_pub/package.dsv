@@ -1,0 +1,12 @@
+source;share/ctrl_pub/hook/path.ps1
+source;share/ctrl_pub/hook/path.dsv
+source;share/ctrl_pub/hook/path.sh
+source;share/ctrl_pub/hook/pythonpath.ps1
+source;share/ctrl_pub/hook/pythonpath.dsv
+source;share/ctrl_pub/hook/pythonpath.sh
+source;share/ctrl_pub/hook/pythonscriptspath.ps1
+source;share/ctrl_pub/hook/pythonscriptspath.dsv
+source;share/ctrl_pub/hook/pythonscriptspath.sh
+source;share/ctrl_pub/hook/ament_prefix_path.ps1
+source;share/ctrl_pub/hook/ament_prefix_path.dsv
+source;share/ctrl_pub/hook/ament_prefix_path.sh
